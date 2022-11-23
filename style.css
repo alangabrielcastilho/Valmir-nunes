@@ -4,17 +4,19 @@ body {
 
 p {
 	text-align: center;
-	text-align:left;
-  	margin-left:1px;
- 	border:double;
- 	color: #000000;
 }
 
-strong {
+em strong {
 	color:#00f118;
 }
 
 #capa{
 	height:5%;
 	width: 98%;
+
 }
+p{
+	text-align:left;
+  margin-left:1px:
+ border:double;
+ color: #000000;
